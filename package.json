@@ -1,5 +1,5 @@
 {
-  "name": "currency-changer",
+  "name": "cash-changer",
   "version": "1.0.0",
   "description": "An NPM package to convert currency",
   "main": "index.js",
